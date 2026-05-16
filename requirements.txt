@@ -2,3 +2,5 @@ pyTelegramBotAPI
 aiogram
 requests
 flask
+python-telegram-bot
+
